@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: cicdtest
+server:
+  port: 8089
